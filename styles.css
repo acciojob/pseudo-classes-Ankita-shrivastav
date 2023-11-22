@@ -1,16 +1,16 @@
-h1{
+.container{
 	background-color:black;
-	color:white;
+	color:rgb(255, 255, 255);
 	height:20px;
 	font-size:20px;
 	margin:1px;
 }
 :root {
-  background:rgb(135,206,235) ;
+  background:rgb(135,206,235);
 }
-p:first-child{
+/* p:first-child{
 	color:black;
-}
+} */
 p:nth-child(2){
 	color:black;
 }
