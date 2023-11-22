@@ -1,6 +1,4 @@
-body{
-	background-color:rgb(255, 255, 255);
-}
+
 h1{
 	background-color:black;
 	color:white;
@@ -8,10 +6,13 @@ h1{
 	font-size:20px;
 	margin:1px;
 }
+:root {
+  background:rgb(135,206,235) ;
+}
 p:first-child{
 	color:black;
 }
-p:nth-child(2,3){
+p:nth-child(2){
 	color:black;
 }
 p:last-child{
